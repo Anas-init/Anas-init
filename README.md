@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mohammad Anas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/Anas-init/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Engineer;Computer+Science+Student+at+FAST NUCES;Competitive+Programmer;NewBie+on+Codeforces;100plus+Leetcode;Always+learning+new+things"></a>
+  <a href="https://github.com/Anas-init/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Engineer;Computer+Science+Student+at+FAST+NUCES;Competitive+Programmer;NewBie+on+Codeforces;100plus+Leetcode;Always+learning+new+things"></a>
 </p>
 
 
