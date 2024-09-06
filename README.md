@@ -6,9 +6,9 @@
 
 <br>
 <p align="center"> 
-	<img ![] (https://komarev.com/ghpvc/?username=Anas-init) height=25px, width=160px/> 
-	
+	<img src="https://komarev.com/ghpvc/?username=Anas-init" height="25px" width="160px"/>
 </p>
+
 
 
 	
