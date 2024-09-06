@@ -18,14 +18,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [FAST NUCES , Karachi Campus](https://khi.nu.edu.pk/) 
-- :trophy: 2x `ACPC` Finalist
+- :school: I am a `Junior` at [FAST NUCES , Karachi Campus](https://khi.nu.edu.pk/).
+- :computer: I am a competitive programmer at `Codeforces`,  `Leetcode`. 
+- :trophy: 100 plus `Leetcode` and 600+ rated `Codeforces`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
 
