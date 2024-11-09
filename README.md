@@ -20,7 +20,7 @@
 
 - :school: I am a `Junior` at [FAST NUCES , Karachi Campus](https://khi.nu.edu.pk/).
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode`. 
-- :trophy: 100 plus `Leetcode` and 600+ rated `Codeforces`.
+- :trophy: 100 plus `Leetcode` and 900+ rated `Codeforces`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
